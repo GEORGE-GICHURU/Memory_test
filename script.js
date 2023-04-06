@@ -104,8 +104,8 @@ function guess(getID) {
                     match = 0;
 
                     setTimeout(function () {
-                        document.getElementById(getID).src = "assets/images/got-card.jpg";
-                        document.getElementById(idGet[0]).src = "assets/images/got-card.jpg";
+                        document.getElementById(getID).src = "assets/got-card.jpg";
+                        document.getElementById(idGet[0]).src = "assets/got-card.jpg";
                         document.getElementById(getID).className = "pic";
                         document.getElementById(idGet[0]).className = "pic";
                         clicks = 0;
