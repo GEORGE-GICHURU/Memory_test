@@ -30,7 +30,7 @@ a.topmenu:visited {
 
 /* navbar mouse over link */
 a.topmenu:hover {
-    color: #f4c318 !important;
+    color: gray !important;
 }
 
 /* navbar selected link */
