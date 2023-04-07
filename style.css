@@ -38,7 +38,7 @@ a.topmenu:active {
 
 /* bac to game link in the page how to play */
 a.backtogame:link {
-    color: #023d51 !important;
+    color: #FF7F50 !important;
 }
 
 /* back to game link in the page how to play - visited link */
@@ -64,7 +64,7 @@ a.backtogame:active {
 /* logo color and size */
 p.logo {
     font-size: 2.4rem;
-    color: #f4c318 !important;
+    color: #FF7F50 !important;
 }
 
 .gold {
