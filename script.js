@@ -90,7 +90,7 @@ function guess(getID) {
                     match = 0;
                     ct++;
 
-                    // If we have found the last two cards
+                    // If we have found the last two cards.
                     if (ct === 8) {
                         setTimeout(function () {
                             document.getElementById('welldone').style.display = "block";
