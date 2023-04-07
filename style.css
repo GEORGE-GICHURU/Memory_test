@@ -27,7 +27,7 @@ a.topmenu:visited {
 
 /* navbar mouse over link */
 a.topmenu:hover {
-    color: gray !important;
+    color: blue !important;
 }
 
 /* navbar selected link */
