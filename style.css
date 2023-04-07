@@ -13,10 +13,7 @@ body {
     font-size: 16px !important;
     font-family: "Poppins";
 }
-.nav-item {
-    position: fixed;
-    top: 0;
-}
+
 
 /* navbar unvisited link */
 a.topmenu:link {
